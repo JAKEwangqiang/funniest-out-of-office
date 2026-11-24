@@ -6,6 +6,8 @@
 
 I'm currently out of the office, doing nothing, very professionally. Your email will be ignored in the order it was received.
 
+One line, 125 characters — the whole entry.
+
 ## Run it
 
 ```sh
